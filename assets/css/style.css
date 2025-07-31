@@ -1,10 +1,10 @@
 body {
-  background-color: #f0defe;
+  background-color: #f1f1f1;
   font-family: Roboto;
 }
 
 .bg-color-nav {
-  background-color: #226685;
+  background-color: #309ea5;
 }
 
 .navbar-brand {
@@ -38,6 +38,7 @@ h2 {
 .imagen {
   width: 356px;
   height: 200px;
+  border-radius: 10px;
 }
 
 .accordion-body {
